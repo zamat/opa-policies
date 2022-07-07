@@ -2,7 +2,7 @@ package app.rbac
 
 import future.keywords.in
 
-default allow := false
+default allow = false
 
 allow {
 	some feature
